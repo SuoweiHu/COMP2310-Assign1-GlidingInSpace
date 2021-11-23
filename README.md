@@ -1,3 +1,9 @@
+**== ⚠️⚠️⚠️ Warnning ⚠️⚠️⚠️ ==**
+
+**This repo is solely for the purpose of my personal code storage, any copying/replicatation/borrowing towards my source code, diagram, or ideas is not welcomed ! If you wish to use anything, you are under your own risk of academic misconduct, if you really do wish to use this repo in any way, please contact me personally.**
+
+**== ⚠️⚠️⚠️ Warnning ⚠️⚠️⚠️ ==**
+
 # COMP2310/6310 Assignment 2 2021
 
 Repository for [COMP2310 Assignment 2 "Passing the Message"](https://cs.anu.edu.au/courses/comp2310/assessment/assignment2/)
